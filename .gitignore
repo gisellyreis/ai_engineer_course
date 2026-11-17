@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Materiais do curso (PDFs da plataforma, não redistribuir)
+materials/
+*.pdf
+
+# Notebooks vazios / rascunhos
+Untitled*.ipynb
