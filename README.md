@@ -6,7 +6,6 @@ Repositório onde documento meus estudos no **[The AI Engineer Course](https://l
 
 | Módulo | Status | Destaques |
 |--------|--------|-----------|
-| Python | 🟡 Em andamento | — |
 | [Introdução ao NLP](nlp/) | ✅ Concluído | Pré-processamento de texto, POS/NER, análise de sentimento, topic modelling (LDA/LSA) e [projeto final de detecção de fake news](nlp/notebooks/14_final_project_fake_news.ipynb) |
 | Próximos módulos | ⏳ | — |
 
